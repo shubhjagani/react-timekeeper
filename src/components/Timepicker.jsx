@@ -99,7 +99,7 @@ export class Timepicker extends React.Component {
 				borderRadius: '3px',
 				display: 'inline-block',
 				// boxShadow: '0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)',
-				boxShadow: '0 3px 6px rgba(0,0,0,0.13), 0 3px 6px rgba(0,0,0,0.19)', 	// bigger
+				//boxShadow: '0 3px 6px rgba(0,0,0,0.13), 0 3px 6px rgba(0,0,0,0.19)', 	// bigger
 				width: '260px',
 				position: 'relative',
 				userSelect: 'none',

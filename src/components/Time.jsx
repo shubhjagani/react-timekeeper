@@ -56,7 +56,6 @@ export class Time extends React.Component {
 				borderRadius: '3px 3px 0 0',
 			},
 			timeWrapper: {
-				left: 20,
 				position: 'relative'
 			},
 			colon: {
