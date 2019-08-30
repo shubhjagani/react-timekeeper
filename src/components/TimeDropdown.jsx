@@ -75,7 +75,7 @@ export class TimeDropdown extends React.Component {
 				top: 62,
 				height: '250px',
 				overflowY: 'auto',
-				boxShadow: '0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)',
+				//boxShadow: '0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)',
 				opacity: 0,
 				animation: 'x 0.2s ease-out both',
 				animationName: fadeIn
